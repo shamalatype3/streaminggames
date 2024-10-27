@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603127153713",
+    "project_id": "streamlocalsports",
+    "storage_bucket": "streamlocalsports.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603127153713:android:e672950925761034d5c110",
+        "android_client_info": {
+          "package_name": "com.tennistv.mvp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhaqY4W9uf69qJTwqauSnn1JFfPf5QaZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
